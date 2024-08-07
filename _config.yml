@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aly Singleton
+title: Alyson (Aly) Singleton
 email: asinglet@stanford.edu
 description: "PhD Candidate, Stanford E-IPER" 
 baseurl: "" # the subpath of your site, e.g. /blog
