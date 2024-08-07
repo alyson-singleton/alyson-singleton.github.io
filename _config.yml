@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mallory Harris
-email: mharris9@stanford.edu
-description: "PhD Candidate, Stanford Biology" 
+title: Aly Singleton
+email: asinglet@stanford.edu
+description: "PhD Candidate, Stanford E-IPER" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: malar0ne
-github_username:  mjharris95
+twitter_username: aly_singleton
+github_username:  alyson-singleton
 
 # Build settings
 theme: minima
