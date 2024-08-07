@@ -22,7 +22,7 @@ title: Aly Singleton
 email: asinglet@stanford.edu
 description: "PhD Candidate, Stanford E-IPER" 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alysonsingleton.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aly_singleton
 github_username:  alyson-singleton
 
