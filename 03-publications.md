@@ -4,7 +4,7 @@ title: Publications
 permalink: publications
 ---
 
-## Manuscripts
+### Published Manuscripts
 
 1.  **Singleton AL**, Glidden CK, Chamberlin AJ, Tuan R, Palasio RG, Pinter A, Caldeira RL, Mendonça CL, Carvalho OS, Monteiro MV, Athni TS. [Species distribution modeling for disease ecology: a multi-scale case study for schistosomiasis host snails in Brazil.](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0002224) *PLOS Global Public Health*. 2024 Aug.
 
@@ -20,7 +20,7 @@ permalink: publications
 
 7.  Marshall BD, Goedel WC, King MR, **Singleton A**, Durham DP, Chan PA, Townsend JP, Galvani AP. [Potential effectiveness of long-acting injectable pre-exposure prophylaxis for HIV prevention in men who have sex with men: a modelling study.](https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(18)30097-3/abstract) *The Lancet HIV*. 2018 Sep.
 
-## Presentations
+### Conference Presentations
 
 1.  **Singleton AL**, Lescano W, Luby S, Mordecai E. Impacts of paving the Interoceanic Highway on dengue in Peru’s Amazon basin. <ins>Poster presentation</ins> the *2024 Ecology and Evolution of Infectious Diseases (EEID) Conference*; June 2024; Stanford, California.
 
