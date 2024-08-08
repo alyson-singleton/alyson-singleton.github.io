@@ -10,8 +10,7 @@ permalink: research
 
 # **Infrastructure projects and infectious disease**
 
-Infrastructure development and its resulting environmental and social changes have been associated with increased disease transmission across multiple settings and disease systems. However, very few studies have used causal analyses to directly estimate the effects of large-scale development projects, such as highways, dams, bridges, and pipelines, on infectious disease. Motivated by this knowledge gap, one of my projects investigates the effect of highway construction on dengue—-a viral disease transmitted by mosquitoes—-in Madre de Dios, Peru. The rapid paving of the Interoceanic Highway through a formerly isolated region of the Peruvian Amazon in 2009 provides a unique opportunity to quantify the causal impact of road paving on disease transmission. I hope to post a pre-print of this work by Fall of 2024.
+<img src="https://alyson-singleton.github.io/ineroceanic-highway.jpg" align="left" width="243"/> Infrastructure development and its resulting environmental and social changes have been associated with increased disease transmission across multiple settings and disease systems. However, very few studies have used causal analyses to directly estimate the effects of large-scale development projects, such as highways, dams, bridges, and pipelines, on infectious disease. Motivated by this knowledge gap, one of my projects investigates the effect of highway construction on dengue—-a viral disease transmitted by mosquitoes—-in Madre de Dios, Peru. The rapid paving of the Interoceanic Highway through a formerly isolated region of the Peruvian Amazon in 2009 provides a unique opportunity to quantify the causal impact of road paving on disease transmission. I hope to post a pre-print of this work by Fall of 2024.
 
 # **Species distribution modeling for disease ecology**
 
-<img src="https://mjharris95.github.io/predict-prevent.png" align="left" width="252"/>
