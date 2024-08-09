@@ -11,4 +11,4 @@ editor_options:
 
 [Paths to Ecology - Part IV.]([https://www.mordecailab.com/blog/2021/10/22/paths-to-ecology-part-iv]) *Mordecai Lab Website*.  2021 Oct.
 
-[Tailoring our response to HIV micro-epidemics](https://medium.com/pphc/tailoring-our-response-to-hiv-micro-epidemics-226365da1c0b) *People, Place & Health Collective Medium*. 2020 Dec.
+[Tailoring our response to HIV micro-epidemics.]([https://medium.com/pphc/tailoring-our-response-to-hiv-micro-epidemics-226365da1c0b]) *People, Place & Health Collective Medium*. 2020 Dec.
