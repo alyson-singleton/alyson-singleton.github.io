@@ -1,1 +1,1 @@
-Code for my professional website, found here: https://alyson-singleton.github.io/.
+Code for my professional website, found here: https://alysonsingleton.com.
