@@ -10,7 +10,7 @@ permalink: publications
 
 2.  Glidden CK, **Singleton AL**, Chamberlin A, Tuan R, Palasio RG, Caldeira RL, Monteiro AM, Lwiza KM, Liu P, Silva V, Athni TS. [Climate and urbanization drive changes in the habitat suitability of Schistosoma mansoni competent snails in Brazil.](https://www.nature.com/articles/s41467-024-48335-9) *Nature Communications*. 2024 Jun.
 
-3.  Griffin I, King J*, Lyons BC*, **Singleton AL***, Deng X, Bruce BB, Griffin PM. [Estimates of SARS-CoV-2 Hospitalization and Fatality Rates in the Prevaccination Period, United States.](https://wwwnc.cdc.gov/eid/article/30/6/23-1285_article#) *Emerging Infectious Diseases*. 2024 Jun.
+3.  Griffin I, King J*, Lyons BC*, **Singleton AL***, Deng X, Bruce BB, Griffin PM. [Estimates of SARS-CoV-2 Hospitalization and Fatality Rates in the Prevaccination Period, United States.](https://wwwnc.cdc.gov/eid/article/30/6/23-1285) *Emerging Infectious Diseases*. 2024 Jun.
 
 4.  Turner MA, **Singleton AL**, Harris MJ, Harryman I, Lopez CA, Arthur RF, Muraida C, Jones JH. [Minority-group incubators and majority-group reservoirs support the diffusion of climate change adaptations.](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0401) *Philosophical Transactions of the Royal Society B*. 2023 Nov.
 
