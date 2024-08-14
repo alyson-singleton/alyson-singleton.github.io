@@ -15,4 +15,4 @@ permalink: /teaching/
 * *King Center Undergraduate Research* mentor for one junior Stanford University undergraduate in the Mordecai Lab of Stanford University (Fall 2023-Summer 2024)
 * *STEM Fellows* mentor for one junior Stanford University undergraduate in the Mordecai Lab of Stanford University (Fall 2023-Spring 2024)
 * *Biology Summer Undergraduate Research Program (B-SURP)* mentor for one sophomore Stanford University undergraduate in the Mordecai Lab of Stanford University (Summer 2023)
-* *NSF Research Experiences for Undergraduates (REU)* mentor for one Howard University undergraduate in the Mordecai Lab of Stanford University (Summer 2022)
+* *NSF Research Experiences for Undergraduates (REU)* mentor for one Howard University undergraduate hosted by the Mordecai Lab of Stanford University (Summer 2022)
