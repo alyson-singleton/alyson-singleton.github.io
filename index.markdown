@@ -10,4 +10,5 @@ I am a PhD candidate in the Emmett Interdisciplinary Program in Environment & Re
 I am currently co-advised by [Erin Mordecai](https://www.mordecailab.com/) (BIO) and [Steve Luby](https://lubylab.stanford.edu/) (MED). Prior to coming to Stanford, I was a Data Science Fellow at the Centers for Disease Control and Prevention where I developed analytic tools for outbreak detection and triage of multiple pathogens and supported the CDC’s Novel Coronavirus (COVID-19) Response. I conducted my undergraduate and master's research with the [People, Place & Health Collective](https://pphcollective.org/) at the Brown University School of Public Health while earning my undergraduate (BS, Applied Mathematics) and master's degrees (MA, Biostatistics).
 
 [Github](https://github.com/alyson-singleton)
+
 [Google Scholar](https://scholar.google.com/citations?user=YVUZhvUAAAAJ&hl=en)
