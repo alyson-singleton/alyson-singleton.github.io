@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ## Teaching and workshops
 
-* Workshop teaching assistant for the 2024 Ecology and Evolution of Infectious Disease Conference at Stanford University. Helped design and teach an Introduction to Google Earth Engine for Disease Ecology.
+* Workshop teaching assistant for the [2024 Ecology and Evolution of Infectious Disease Conference at Stanford University](https://web.cvent.com/event/b9c7e658-1431-4030-bc0d-e4aa93816616/websitePage:bbd6bd7d-9fe0-4cec-9aea-f8c0d9ecc779?locale=en). Helped design and teach an Introduction to Google Earth Engine for Disease Ecology.
   
 * Co-led a [workshop on species distribution modeling](https://github.com/ckglidden/UPCH-species-distribution-tutorial) techniques for international collaborators and students visiting from Universidad Peruana Cayetano Heredia (UPCH).
   
