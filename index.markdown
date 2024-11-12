@@ -4,7 +4,7 @@ author_profile: true
 permalink: /
 ---
 
-<img src="IMG1025-R01-007A_square.TIF" width="30%" align="left" style="margin: 10px 15px 15px 10px;" /> 
+<img src="IMG1025-R01-007A_square.jpg" width="30%" align="left" style="margin: 10px 15px 15px 10px;" /> 
 I am a PhD candidate in the Emmett Interdisciplinary Program in Environment & Resources ([E-IPER](https://eiper.stanford.edu/)) at Stanford University, investigating the impact of global change on infectious disease transmission, through the lenses of ecology, socio-environmental systems, and infectious disease epidemiology. 
 
 Based on the concepts of One Health and Planetary Health, I focus on the design and evaluation of win-win solutions that can synergistically benefit human and environmental health. As we anticipate widening disease disparities under increasing land-use change and climate instability, my research aims to identify opportunities to prevent and mitigate these compounding harms. I draw on tools from mathematics, statistics, machine learning, remote sensing, geography, epidemiology, applied econometrics, and social science to understand how global change processes combine to shape disease dynamics. Ultimately, my goal is to develop applied, science-based tools for disease control that increase the wellbeing of both people and ecosystems.
