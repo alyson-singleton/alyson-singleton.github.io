@@ -4,7 +4,7 @@ title: Publications
 permalink: publications
 ---
 ### Preprints
-1.  **Singleton AL**, Lescano AG, MacDonald AJ, Mandle L, Sipin TJ, Martel KS, Munayco CV, Carrera EDR, Choque GA, Bautista ASM, Luby SP, Mordecai EA [Highway paving dramatically increased dengue transmission in the Amazon.]([https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0002224](https://www.medrxiv.org/content/10.1101/2024.11.15.24317406v1) *MedRxiv*. 2024 Nov.
+1.  **Singleton AL**, Lescano AG, MacDonald AJ, Mandle L, Sipin TJ, Martel KS, Munayco CV, Carrera EDR, Choque GA, Bautista ASM, Luby SP, Mordecai EA [Highway paving dramatically increased dengue transmission in the Amazon.](https://www.medrxiv.org/content/10.1101/2024.11.15.24317406v1) *MedRxiv*. 2024 Nov.
 
 ### Published Manuscripts
 
