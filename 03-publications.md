@@ -4,13 +4,13 @@ title: Publications
 permalink: publications
 ---
 ### Preprints
-1.  **Singleton AL**, Lescano AG, MacDonald AJ, Mandle L, Sipin TJ, Martel KS, Munayco CV, Carrera EDR, Choque GA, Bautista ASM, Luby SP, Mordecai EA [Highway paving dramatically increased dengue transmission in the Amazon.](https://www.medrxiv.org/content/10.1101/2024.11.15.24317406v1) *MedRxiv*. 2024 Nov.
+1.  **Singleton AL**, Lescano AG, MacDonald AJ, Mandle L, Sipin TJ, Martel KS, Munayco CV, Carrera EDR, Choque GA, Bautista ASM, Luby SP, Mordecai EA. [Highway paving dramatically increased dengue transmission in the Amazon.](https://www.medrxiv.org/content/10.1101/2024.11.15.24317406v1) *MedRxiv*. 2024 Nov.
 
 ### Published Manuscripts
 
-1.  **Singleton AL**, Glidden CK, Chamberlin AJ, Tuan R, Palasio RG, Pinter A, Caldeira RL, Mendonça CL, Carvalho OS, Monteiro MV, Athni TS. [Species distribution modeling for disease ecology: a multi-scale case study for schistosomiasis host snails in Brazil.](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0002224) *PLOS Global Public Health*. 2024 Aug.
+1.  **Singleton AL**, Glidden CK, Chamberlin AJ, Tuan R, Palasio RG, Pinter A, Caldeira RL, Mendonça CL, Carvalho OS, Monteiro MV, Athni TS, Sokolow SH, Mordecai EA, De Leo GA. [Species distribution modeling for disease ecology: a multi-scale case study for schistosomiasis host snails in Brazil.](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0002224) *PLOS Global Public Health*. 2024 Aug.
 
-2.  Glidden CK, **Singleton AL**, Chamberlin A, Tuan R, Palasio RG, Caldeira RL, Monteiro AM, Lwiza KM, Liu P, Silva V, Athni TS. [Climate and urbanization drive changes in the habitat suitability of Schistosoma mansoni competent snails in Brazil.](https://www.nature.com/articles/s41467-024-48335-9) *Nature Communications*. 2024 Jun.
+2.  Glidden CK, **Singleton AL**, Chamberlin A, Tuan R, Palasio RG, Caldeira RL, Monteiro AM, Lwiza KM, Liu P, Silva V, Athni TS, Sokolow SH, Mordecai EA, De Leo GA. [Climate and urbanization drive changes in the habitat suitability of Schistosoma mansoni competent snails in Brazil.](https://www.nature.com/articles/s41467-024-48335-9) *Nature Communications*. 2024 Jun.
 
 3.  Griffin I, King J\*, Lyons BC\*, **Singleton AL\***, Deng X, Bruce BB, Griffin PM. [Estimates of SARS-CoV-2 Hospitalization and Fatality Rates in the Prevaccination Period, United States.](https://wwwnc.cdc.gov/eid/article/30/6/23-1285) *Emerging Infectious Diseases*. 2024 Jun.
 
