@@ -5,6 +5,7 @@ permalink: /teaching/
 ---
 
 ## Teaching and workshops
+* Guest Lecture for Human and Planetary Health Course (SUSTAIN 103), Stanford University
 
 * Workshop teaching assistant for the [2024 Ecology and Evolution of Infectious Disease Conference at Stanford University](https://web.cvent.com/event/b9c7e658-1431-4030-bc0d-e4aa93816616/websitePage:bbd6bd7d-9fe0-4cec-9aea-f8c0d9ecc779?locale=en). Helped design and teach an Introduction to Google Earth Engine for Disease Ecology.
   
