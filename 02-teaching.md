@@ -14,10 +14,11 @@ permalink: /teaching/
 * Teaching assistant for Global Change and Emerging Infectious Disease at Stanford University with [Jamie Jones](https://heeh.stanford.edu/) (ESS 213, EARTHSYS 114, EARTHSYS 214, HUMBIO 114).
 
 ## Mentorship
+* *Science Writing Advancing Planetary Health* mentor for one Stanford University undergraduate (2024-2025)
 
-* *King Center Undergraduate Research* mentor for one junior Stanford University undergraduate in the Mordecai Lab of Stanford University (Fall 2023-Summer 2024)
+* *King Center Undergraduate Research* mentor for two Stanford University undergraduates in the Mordecai Lab of Stanford University (2023-2025)
   
-* *STEM Fellows* mentor for one junior Stanford University undergraduate in the Mordecai Lab of Stanford University (Fall 2023-Spring 2024)
+* *STEM Fellows* mentor for one junior Stanford University undergraduate in the Mordecai Lab of Stanford University (2023-2024)
   
 * *Biology Summer Undergraduate Research Program (B-SURP)* mentor for one sophomore Stanford University undergraduate in the Mordecai Lab of Stanford University (Summer 2023)
   
