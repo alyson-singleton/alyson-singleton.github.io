@@ -45,19 +45,4 @@ __Added benefits of pre-exposure prophylaxis use on HIV incidence.__
 * IDWeek 2020, Philadelphia, Pennsylvania. Oct 2020. Poster.
   
 __Structural network characteristics and vulnerability to rapid HIV transmission among PWID.__
-* 7th International Conference on Infectious Disease Dynamics, Charleston, South Carolina. Dec
-2019. Poster.
-
-1.  **Singleton AL**, Lescano W, Luby S, Mordecai E. Impacts of paving the Interoceanic Highway on dengue in Peru’s Amazon basin. <ins>Poster presentation</ins> the *2024 Ecology and Evolution of Infectious Diseases (EEID) Conference*; June 2024; Stanford, California.
-
-2.  **Singleton AL**, Lescano W, Luby S, Mordecai E. Impacts of paving the Interoceanic Highway on dengue in Peru’s Amazon basin. <ins>Oral presentation</ins> at the *Stanford Doerr School of Sustainability Research Review*; May 2024; Stanford, California.
-
-3.  **Singleton AL**, Glidden CK, Chamberlin AJ, Caldeira RL, Tuan R, Palasio RGS, Pinter A, Monteiro MV, Athni T, Sokolow S, Mordecai E, De Leo G. Species distribution modeling for disease ecology: a multi-scale case study for schistosomiasis host snails in Brazil. <ins>Poster presentation</ins> at the *Stanford Data Science Conference*; May 2023; Stanford, California.
-
-4.  **Singleton AL**, Glidden CK, Chamberlin AJ, Caldeira RL, Tuan R, Monteiro MV, Domingues A, Tallam K, Kirk D, Mitchell K, Pereira TDA, Aslan IH, Athni T, Liul P, Lwiza KM, Sokolow S, Mordecai E, De Leo G. Multi-scale analysis of species distribution modeling for non-human disease hosts: a case study with Schistosomiasis in Brazil. <ins>Poster presentation</ins> at the *XVI International Symposium on Schistosomiasis*; November 2022; Ouro Preto, Minas Gerais, Brazil.
-
-5.  Glidden CK, **Singleton AL**, Chamberlin AJ, Caldeira RL, Tuan R, Monteiro MV, Domingues A, Tallam K, Kirk D, Mitchell K, Athni T, Sokolow S, Mordecai E, De Leo G. Compounding impacts of climate and land use change on human schistosomiasis in Brazil. <ins>Oral presentation</ins> at the *8th Stanford Global Health Research Convening*; April 2022; Stanford, California. 
-
-6.  **Singleton AL**, Marshall BDL, Zang X, Nunn AS, Goedel WC. Added benefits of pre-exposure prophylaxis use on HIV Incidence with minimal changes in efficiency in the context of high treatment engagement among men who have sex with men. <ins>Poster presentation</ins> at *IDWeek 2020*; October 2020; Philadelphia, Pennsylvania. (virtual due to COVID-19 precautions)
-
-7. **Singleton AL**, Marshall BDL, Harrison MT, Goodreau SM, Goedel WC. Structural network characteristics and vulnerability to rapid HIV transmission among people who inject drugs in a rural county in the United States: a modelling study. <ins>Poster presentation</ins> at the *7th International Conference on Infectious Disease Dynamics*; December 2019; Charleston, South Carolina.
+* 7th International Conference on Infectious Disease Dynamics, Charleston, South Carolina. Dec 2019. Poster.
