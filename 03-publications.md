@@ -28,6 +28,23 @@ permalink: publications
 
 ### Conference Presentations
 
+__Impacts of paving the Interoceanic Highway on dengue in Peru’s Amazon basin.__
+* GISDay 2024, Stanford University. Nov 2024. Lightning Talk.
+* Human and Planetary Health (SUSTAIN 103), Stanford University. Nov 2024. Guest Lecture.
+* 2024 Ecology and Evolution of Infectious Diseases, Stanford University. Jun 2024. Poster.
+* Doerr School of Sustainability Research Review, Stanford University. May 2024. Talk.
+__Species distribution modeling for disease ecology: a multi-scale case study for schistosomiasis
+host snails in Brazil.__
+* Stanford Data Science Conference, Stanford University. May 2023. Poster.
+* Foley Lab, University of California, Davis. Mar 2023. Invited Talk.
+* XVI International Symposium on Schistosomiasis, Ouro Preto, Brazil. Nov 2022. Poster.
+* 8th Stanford Global Health Research Convening, Stanford University. Apr 2022. Talk.
+__Added benefits of pre-exposure prophylaxis use on HIV incidence.__
+* IDWeek 2020, Philadelphia, Pennsylvania. Oct 2020. Poster.
+__Structural network characteristics and vulnerability to rapid HIV transmission among PWID.__
+* 7th International Conference on Infectious Disease Dynamics, Charleston, South Carolina. Dec
+2019. Poster.
+
 1.  **Singleton AL**, Lescano W, Luby S, Mordecai E. Impacts of paving the Interoceanic Highway on dengue in Peru’s Amazon basin. <ins>Poster presentation</ins> the *2024 Ecology and Evolution of Infectious Diseases (EEID) Conference*; June 2024; Stanford, California.
 
 2.  **Singleton AL**, Lescano W, Luby S, Mordecai E. Impacts of paving the Interoceanic Highway on dengue in Peru’s Amazon basin. <ins>Oral presentation</ins> at the *Stanford Doerr School of Sustainability Research Review*; May 2024; Stanford, California.
