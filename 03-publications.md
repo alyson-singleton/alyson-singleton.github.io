@@ -8,7 +8,7 @@ permalink: publications
 
 ### Published Manuscripts
 
-1. Ferreira da Silva VA, Kampel M, Silva dos Anjos R, Gardini Sanches Palasio R, Escada MIS, Tuan R, **Singleton A**, Glidden CK, Chamberlin A, De Leo GA, Pinter dos Santos A, Monteiro, AM. [Mapping schistosomiasis risk landscapes and implications for disease control: A case study for low endemic areas in the Middle Paranapanema river basin, São Paulo, Brazil.](doi.org/10.1371/journal.pntd.0012582) *PLOS Neglected Tropical Diseases*. 2024 Nov.
+1. Ferreira da Silva VA, Kampel M, Silva dos Anjos R, Gardini Sanches Palasio R, Escada MIS, Tuan R, **Singleton A**, Glidden CK, Chamberlin A, De Leo GA, Pinter dos Santos A, Monteiro, AM. [Mapping schistosomiasis risk landscapes and implications for disease control: A case study for low endemic areas in the Middle Paranapanema river basin, São Paulo, Brazil.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012582) *PLOS Neglected Tropical Diseases*. 2024 Nov.
 
 2.  **Singleton AL**, Glidden CK, Chamberlin AJ, Tuan R, Palasio RG, Pinter A, Caldeira RL, Mendonça CL, Carvalho OS, Monteiro MV, Athni TS, Sokolow SH, Mordecai EA, De Leo GA. [Species distribution modeling for disease ecology: a multi-scale case study for schistosomiasis host snails in Brazil.](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0002224) *PLOS Global Public Health*. 2024 Aug.
 
