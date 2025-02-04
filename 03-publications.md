@@ -29,6 +29,7 @@ permalink: publications
 ### Conference Presentations
 
 _Impacts of paving the Interoceanic Highway on dengue in Peru’s Amazon basin._
+* 11th Stanford Global Health Research Convening, Stanford University. Feb 2025. Lightning Talk.
 * GISDay 2024, Stanford University. Nov 2024. Lightning Talk.
 * Human and Planetary Health (SUSTAIN 103), Stanford University. Nov 2024. Guest Lecture.
 * 2024 Ecology and Evolution of Infectious Diseases, Stanford University. Jun 2024. Poster.
