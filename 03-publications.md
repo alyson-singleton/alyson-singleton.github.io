@@ -26,7 +26,7 @@ permalink: publications
 
 9.  Marshall BD, Goedel WC, King MR, **Singleton A**, Durham DP, Chan PA, Townsend JP, Galvani AP. [Potential effectiveness of long-acting injectable pre-exposure prophylaxis for HIV prevention in men who have sex with men: a modelling study.](https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(18)30097-3/abstract) *The Lancet HIV*. 2018 Sep.
 
-### Conference Presentations
+### Presentations
 
 _Impacts of paving the Interoceanic Highway on dengue in Peru’s Amazon basin._
 * Lo Lab, Stanford University. Apr 2025. Invited Talk.
