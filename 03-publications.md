@@ -29,6 +29,7 @@ permalink: publications
 ### Presentations
 
 _Impacts of paving the Interoceanic Highway on dengue in Peru’s Amazon basin._
+* Global Development Research Symposium, Stanford University. Apr 2025. Poster.
 * Lo Lab, Stanford University. Apr 2025. Invited Talk.
 * 11th Stanford Global Health Research Convening, Stanford University. Feb 2025. Lightning Talk.
 * GISDay 2024, Stanford University. Nov 2024. Lightning Talk.
