@@ -6,6 +6,9 @@ editor_options:
   markdown: 
     wrap: sentence
 ---
+[Highways and Hidden Epidemics: The Unseen Cost of Development](https://www.youtube.com/watch?v=YrkUMrUvxUE) *3 Minute Thesis, Stanford University.* Apr 2025. Finalist.
+
+[Predicting how schistosomiasis risk will shift in response to environmental change.](http://bit.ly/Enviro-YIR-2024) *2024 Environmental Research Year in Review*. 2024 Dec. Page 38.
 
 [Forecasting climate’s impact on a debilitating disease.](https://news.stanford.edu/stories/2024/08/forecasting-climate-s-impact-on-a-debilitating-disease?utm_source=feedotter&utm_medium=email&utm_campaign=int-08-04-2024&utm_content=httpsnewsstanfordedustories202408forecastingclimatesimpactonadebilitatingdisease&mkt_tok=NjYwLVRKQy05ODQAAAGUwZqDM9rarCB0KUhVWIDBars5fHo02K_eLNYLsD9HxtbOtFoxIi2h9BllczVwNHDMEQ3SbdL0E6iYkwneASSODykARTtfEIHn8COWBYA) *Stanford Report*. 2024 Aug.
 
