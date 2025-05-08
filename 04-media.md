@@ -6,7 +6,7 @@ editor_options:
   markdown: 
     wrap: sentence
 ---
-[Highways and Hidden Epidemics: The Unseen Cost of Development.](https://news.stanford.edu/stories/2025/03/finalists-three-minute-thesis-competition) *3 Minute Thesis, Stanford University.* Apr 2025. [YouTube Recording.](https://www.youtube.com/watch?v=SRh4tFxHdBA&t=1155s)
+[Highways and Hidden Epidemics: The Unseen Cost of Development.](https://news.stanford.edu/stories/2025/03/finalists-three-minute-thesis-competition) *3 Minute Thesis, Stanford University.* 2025 Apr. [YouTube Recording.](https://www.youtube.com/watch?v=SRh4tFxHdBA&t=1155s)
 
 [Predicting how schistosomiasis risk will shift in response to environmental change.](http://bit.ly/Enviro-YIR-2024) *2024 Environmental Research Year in Review (p. 38)*. 2024 Dec.
 
