@@ -17,12 +17,12 @@ permalink: /teaching/
 
 ## Mentorship
 
-* Raina Talwar Bhatia (King Center Undergraduate Fellow, Biology Summer Undergraduate Research Program, and International Policy Honors Thesis): [Pave, Rain, Leptospira Gain - The Impact of Climate and Land‑Use Change on Leptospirosis in Brazil 2007–2023](https://searchworks.stanford.edu/view/ss755yw7206). 2022-2025.
+* Raina Talwar Bhatia (Biology Summer Undergraduate Research Program (2022), King Center Undergraduate Fellow (2022-25), and International Policy Honors Thesis (2024-25)): [Pave, Rain, Leptospira Gain - The Impact of Climate and Land‑Use Change on Leptospirosis in Brazil 2007–2023](https://searchworks.stanford.edu/view/ss755yw7206).
 
-* Lyn Lee Loth (King Center Undergraduate Fellow, STEM Fellow, and Biology Honors Thesis): *How do urbanization and climate interact to alter dengue dynamics in Phnom Penh, Cambodia*. 2022-2025.
+* Lyn Lee Loth (STEM Fellow (2023-24), and Biology Honors Thesis (2024-25)): *How do urbanization and climate interact to alter dengue dynamics in Phnom Penh, Cambodia*.
 
-* Sage McGinley-Smith (Computer Science Departmental Independent Project): [Classification of pineapple and palm plantations in Costa Rica for environmental and human health applications](https://storymaps.arcgis.com/stories/74dc40625b39475baa77897a6d44fd7c). 2022-2024.
+* Sage McGinley-Smith (Computer Science Departmental Independent Project (2023-24)): [Classification of pineapple and palm plantations in Costa Rica for environmental and human health applications](https://storymaps.arcgis.com/stories/74dc40625b39475baa77897a6d44fd7c).
 
-* Kunal Arora (Science Writing Advancing Planetary Health Program): *Development is spreading dengue. What now?*. 2024-2025.
+* Kunal Arora (Science Writing Advancing Planetary Health Program (2024-2025)): *Co-creation of multiple scientific communication products for IOH and dengue project*.
 
-* Harper Baer (Biology Research Credits): *An introduction to dengue SIR compartmental modeling methods*. 2025.
+* Harper Baer (Biology Research Credits (2025)): *An introduction to dengue SIR compartmental modeling methods*. 2025.
