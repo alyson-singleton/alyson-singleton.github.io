@@ -17,11 +17,11 @@ permalink: /teaching/
 
 ## Mentorship
 
-* Raina Talwar Bhatia (King Center Undergraduate Fellow, Biology Summer Undergraduate Research Program, and International Policy Honors Thesis): *Impacts of land-use change and climate change on leptospirosis in Brazil*. 2022-2025.
+* Raina Talwar Bhatia (King Center Undergraduate Fellow, Biology Summer Undergraduate Research Program, and International Policy Honors Thesis): [Pave, Rain, Leptospira Gain - The Impact of Climate and Land‑Use Change on Leptospirosis in Brazil 2007–2023](https://searchworks.stanford.edu/view/ss755yw7206). 2022-2025.
 
 * Lyn Lee Loth (King Center Undergraduate Fellow, STEM Fellow, and Biology Honors Thesis): *How do urbanization and climate interact to alter dengue dynamics in Phnom Penh, Cambodia*. 2022-2025.
 
-* Sage McGinley-Smith (Computer Science Departmental Senior Project): [Classification of pineapple and palm plantations in Costa Rica for environmental and human health applications](https://github.com/sagems/unet_segmentation). 2022-2024.
+* Sage McGinley-Smith (Computer Science Departmental Independent Project): [Classification of pineapple and palm plantations in Costa Rica for environmental and human health applications](https://storymaps.arcgis.com/stories/74dc40625b39475baa77897a6d44fd7c). 2022-2024.
 
 * Kunal Arora (Science Writing Advancing Planetary Health Program): *Development is spreading dengue. What now?*. 2024-2025.
 
