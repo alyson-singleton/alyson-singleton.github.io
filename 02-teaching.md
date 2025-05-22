@@ -13,15 +13,16 @@ permalink: /teaching/
   
 * Co-led a [workshop on species distribution modeling](https://github.com/ckglidden/UPCH-species-distribution-tutorial) techniques for international collaborators and students visiting from Universidad Peruana Cayetano Heredia (UPCH). 2022 Nov.
   
-* Teaching assistant for Global Change and Emerging Infectious Disease at Stanford University with [Jamie Jones](https://heeh.stanford.edu/) (ESS 213, EARTHSYS 114, EARTHSYS 214, HUMBIO 114). 2022 Spring.
+* Teaching assistant for Global Change and Emerging Infectious Disease at Stanford University with [Jamie Jones](https://heeh.stanford.edu/) (ESS 213, EARTHSYS 114, EARTHSYS 214, HUMBIO 114). 2022 Spr.
 
 ## Mentorship
-* *Science Writing Advancing Planetary Health* mentor for one Stanford University undergraduate (2024-2025)
 
-* *King Center Undergraduate Research* mentor for two Stanford University undergraduates in the Mordecai Lab of Stanford University (2023-2025)
-  
-* *STEM Fellows* mentor for one junior Stanford University undergraduate in the Mordecai Lab of Stanford University (2023-2024)
-  
-* *Biology Summer Undergraduate Research Program (B-SURP)* mentor for one sophomore Stanford University undergraduate in the Mordecai Lab of Stanford University (Summer 2023)
-  
-* *NSF Research Experiences for Undergraduates (REU)* mentor for one Howard University undergraduate hosted by the Mordecai Lab of Stanford University (Summer 2022)
+* Raina Talwar Bhatia (King Center Undergraduate Fellow, Biology Summer Undergraduate Research Program, and International Policy Honors Thesis): *Impacts of land-use change and climate change on leptospirosis in Brazil*. 2022-2025.
+
+* Lyn Lee Loth (King Center Undergraduate Fellow, STEM Fellow, and Biology Honors Thesis): *How do urbanization and climate interact to alter dengue dynamics in Phnom Penh, Cambodia*. 2022-2025.
+
+* Sage McGinley-Smith (Computer Science Departmental Senior Project): [Classification of pineapple and palm plantations in Costa Rica for environmental and human health applications](https://github.com/sagems/unet_segmentation). 2022-2024.
+
+* Kunal Arora (Science Writing Advancing Planetary Health Program): *Development is spreading dengue. What now?*. 2024-2025.
+
+* Harper Baer (Biology Research Credits): *An introduction to dengue SIR compartmental modeling methods*. 2025.
