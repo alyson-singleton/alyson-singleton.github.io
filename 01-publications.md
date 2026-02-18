@@ -25,28 +25,3 @@ permalink: publications
 8.  **Singleton AL**, Marshall BD, Zang X, Nunn AS, Goedel WC. [Added benefits of pre-exposure prophylaxis use on HIV incidence with minimal changes in efficiency in the context of high treatment engagement among men who have sex with men.](https://www.liebertpub.com/doi/full/10.1089/apc.2020.0151?casa_token=gevymeobnsYAAAAA%3A0zPsF312B_50q_ZG9313NbimpfBlh8eFtyIS2rRJ407mjxc6ymAwVR73IZDId8JZzbQilFiNsDYS) *AIDS Patient Care and STDs*. 2020 Dec.
 
 9.  Marshall BD, Goedel WC, King MR, **Singleton A**, Durham DP, Chan PA, Townsend JP, Galvani AP. [Potential effectiveness of long-acting injectable pre-exposure prophylaxis for HIV prevention in men who have sex with men: a modelling study.](https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(18)30097-3/abstract) *The Lancet HIV*. 2018 Sep.
-
-### Presentations
-
-_Impacts of paving the Interoceanic Highway on dengue in Peru’s Amazon basin._
-* Lo Lab, Stanford University. Apr 2025. Invited Talk.
-* 3 Minute Thesis, Stanford University. Apr 2025. Finalist.
-* 11th Stanford Global Health Research Convening, Stanford University. Feb 2025. Lightning Talk.
-* GISDay 2024, Stanford University. Nov 2024. Lightning Talk.
-* Human and Planetary Health (SUSTAIN 103), Stanford University. Nov 2024. Guest Lecture.
-* LaBeaud Lab, Stanford University. Aug 2024. Invited Talk.
-* 2024 Ecology and Evolution of Infectious Diseases, Stanford University. Jun 2024. Poster.
-* Doerr School of Sustainability Research Review, Stanford University. May 2024. Talk.
-  
-_Species distribution modeling for disease ecology: a multi-scale case study for schistosomiasis
-host snails in Brazil._
-* Stanford Data Science Conference, Stanford University. May 2023. Poster.
-* Foley Lab, University of California, Davis. Mar 2023. Invited Talk.
-* XVI International Symposium on Schistosomiasis, Ouro Preto, Brazil. Nov 2022. Poster.
-* 8th Stanford Global Health Research Convening, Stanford University. Apr 2022. Talk.
-  
-_Added benefits of pre-exposure prophylaxis use on HIV incidence._
-* IDWeek 2020, Philadelphia, Pennsylvania. Oct 2020. Poster.
-  
-_Structural network characteristics and vulnerability to rapid HIV transmission among PWID._
-* 7th International Conference on Infectious Disease Dynamics, Charleston, South Carolina. Dec 2019. Poster.
