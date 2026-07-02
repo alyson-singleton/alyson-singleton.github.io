@@ -6,6 +6,10 @@ editor_options:
   markdown: 
     wrap: sentence
 ---
+[New Roads: Expressways for Disease?](https://globalhealth.stanford.edu/planetary-health-fellowship/new-roads-expressways-for-disease.html/) *Stanford Center for Innovation and Global Health*. 2026 Jul.
+
+[Predicting how schistosomiasis risk will shift in response to environmental change.](http://bit.ly/Enviro-YIR-2024) *2024 Environmental Research Year in Review (p. 38)*. 2024 Dec.
+
 [Highways and Hidden Epidemics: The Unseen Cost of Development.](https://news.stanford.edu/stories/2025/03/finalists-three-minute-thesis-competition) *3 Minute Thesis, Stanford University.* 2025 Apr. [YouTube Recording.](https://www.youtube.com/watch?v=SRh4tFxHdBA&t=1155s)
 
 [Predicting how schistosomiasis risk will shift in response to environmental change.](http://bit.ly/Enviro-YIR-2024) *2024 Environmental Research Year in Review (p. 38)*. 2024 Dec.
