@@ -9,7 +9,7 @@ permalink: publications
 
 1.  **Singleton AL**, Lescano AG, Martel KS, MacDonald AJ, Mandle L, Sipin TJ, Munayco CV, Carrera EDR, Choque GA, Bautista ASM, Luby SP, Mordecai EA. [Increased dengue transmission following highway paving in the Peruvian Amazon.](https://doi.org/10.1038/s41893-026-01879-8) *Nature Sustainability*. 2026 Jul.
 
-2.  Anjos RSD, Neves NDS, Tuan R, Palasio RGS, Anjos LSD, Kampel M, Silva VAFD, Leo GAD, \textbf{Singleton AL}, ... Monteiro AMV. [Assessing schistosomiasis transmission risk based on integrated hydrological and environmental modeling.](https://doi.org/10.1088/2752-5309/ae583d) *Environmental Research: Health*. 2026 Apr.
+2.  Anjos RSD, Neves NDS, Tuan R, Palasio RGS, Anjos LSD, Kampel M, Silva VAFD, Leo GAD, **Singleton AL**, ... Monteiro AMV. [Assessing schistosomiasis transmission risk based on integrated hydrological and environmental modeling.](https://doi.org/10.1088/2752-5309/ae583d) *Environmental Research: Health*. 2026 Apr.
 
 3. Ferreira da Silva VA, Kampel M, Silva dos Anjos R, Gardini Sanches Palasio R, Escada MIS, Tuan R, **Singleton A**, Glidden CK, Chamberlin A, De Leo GA, Pinter dos Santos A, Monteiro, AM. [Mapping schistosomiasis risk landscapes and implications for disease control: A case study for low endemic areas in the Middle Paranapanema river basin, São Paulo, Brazil.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012582) *PLOS Neglected Tropical Diseases*. 2024 Nov.
 
