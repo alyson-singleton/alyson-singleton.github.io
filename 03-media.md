@@ -7,7 +7,7 @@ editor_options:
     wrap: sentence
 ---
 
-[Dengue surge linked to road development in Peru](https://news.stanford.edu/stories/2026/07/dengue-road-development-peruvian-amazon) *Stanford Report*. 2026 Jul.
+[Dengue surge linked to road development in Peru.](https://news.stanford.edu/stories/2026/07/dengue-road-development-peruvian-amazon) *Stanford Report*. 2026 Jul.
 
 [New Roads: Expressways for Disease?](https://globalhealth.stanford.edu/planetary-health-fellowship/new-roads-expressways-for-disease.html/) *Stanford Center for Innovation and Global Health*. 2026 Jul.
 
