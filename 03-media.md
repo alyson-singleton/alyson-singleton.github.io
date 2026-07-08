@@ -6,6 +6,9 @@ editor_options:
   markdown: 
     wrap: sentence
 ---
+
+[Dengue surge linked to road development in Peru](https://news.stanford.edu/stories/2026/07/dengue-road-development-peruvian-amazon) *Stanford Report*. 2026 Jul.
+
 [New Roads: Expressways for Disease?](https://globalhealth.stanford.edu/planetary-health-fellowship/new-roads-expressways-for-disease.html/) *Stanford Center for Innovation and Global Health*. 2026 Jul.
 
 [Predicting how schistosomiasis risk will shift in response to environmental change.](http://bit.ly/Enviro-YIR-2024) *2024 Environmental Research Year in Review (p. 38)*. 2024 Dec.
