@@ -7,7 +7,7 @@ permalink: publications
 
 ### Published Manuscripts
 
-1.  **Singleton AL**, Lescano AG, Martel KS, MacDonald AJ, Mandle L, Sipin TJ, Munayco CV, Carrera EDR, Choque GA, Bautista ASM, Luby SP, Mordecai EA. [Increased dengue transmission following highway paving in the Peruvian Amazon.](https://doi.org/10.1038/s41893-026-01879-8) *Nature Sustainability*. 2026 Jul.
+1.  **Singleton AL**, Lescano AG, Martel KS, MacDonald AJ, Mandle L, Sipin TJ, Munayco CV, Carrera EDR, Choque GA, Bautista ASM, Luby SP, Mordecai EA. [Increased dengue transmission following highway paving in the Peruvian Amazon.](https://doi.org/10.1038/s41893-026-01879-8) *Nature Sustainability*. 2026 Jul. [Public access.](https://rdcu.be/frF7r)
 
 2.  Anjos RSD, Neves NDS, Tuan R, Palasio RGS, Anjos LSD, Kampel M, Silva VAFD, Leo GAD, **Singleton AL**, Glidden CK, Chamberlin A, Aslan IH, Pinter A, Escada MIS, Monteiro AMV. [Assessing schistosomiasis transmission risk based on integrated hydrological and environmental modeling.](https://doi.org/10.1088/2752-5309/ae583d) *Environmental Research: Health*. 2026 Apr.
 
