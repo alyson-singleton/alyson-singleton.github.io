@@ -7,6 +7,8 @@ editor_options:
     wrap: sentence
 ---
 
+[El dengue viaja en carretera.](https://elpais.com/america-futura/2026-08-12/el-dengue-viaja-en-carretera.html) *El País*. 2026 Aug.
+
 [Dengue surge linked to road development in Peru.](https://news.stanford.edu/stories/2026/07/dengue-road-development-peruvian-amazon) *Stanford Report*. 2026 Jul.
 
 [New Roads: Expressways for Disease?](https://globalhealth.stanford.edu/planetary-health-fellowship/new-roads-expressways-for-disease.html/) *Stanford Center for Innovation and Global Health*. 2026 Jul.
