@@ -6,6 +6,7 @@ editor_options:
   markdown: 
     wrap: sentence
 ---
+[Highway Expansion Linked to Dengue Surge in the Amazon.](https://www.thinkglobalhealth.org/article/highway-expansion-linked-to-dengue-surge-in-the-amazon) *Think Global Health*. 2026 Sept.
 
 [El dengue viaja en carretera.](https://elpais.com/america-futura/2026-08-12/el-dengue-viaja-en-carretera.html) *El País*. 2026 Aug.
 
