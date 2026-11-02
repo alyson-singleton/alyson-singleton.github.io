@@ -5,6 +5,8 @@ permalink: /teaching/
 ---
 
 ## Teaching and workshops
+* Guest Lecture for Human and Planetary Health (SUSTAIN 103), Stanford University. 2026 Oct.
+
 * Led workshop on natural experiments, study design, and causal inference methods at Peru CDC, Lima, Peru. [github.com/alyson-singleton/DiD_tutorial](github.com/alyson-singleton/DiD_tutorial). 2025 Aug.
 
 * Guest Lecture for Ecology and Evolution of Infectious Disease in a Changing World (BIO2N), Stanford University. 2025 Apr.
