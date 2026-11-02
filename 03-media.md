@@ -9,7 +9,7 @@ editor_options:
 
 <img src="Nat_Sust_Oct_2026_Cover_Image.png" width="35%" align="left" style="margin: 10px 15px 15px 10px;" /> 
 
-[Nature Sustainability Volume 9 Issue 10 Cover.](https://www.nature.com/natsustain/volumes/9/issues/10) *Nature Sustainability*. 2026 Oct.
+[*Nature Sustainability* Volume 9 Issue 10 Cover (left).](https://www.nature.com/natsustain/volumes/9/issues/10) *Nature Sustainability*. 2026 Oct.
 
 [Highway Expansion Linked to Dengue Surge in the Amazon.](https://www.thinkglobalhealth.org/article/highway-expansion-linked-to-dengue-surge-in-the-amazon) *Think Global Health*. 2026 Sept.
 
